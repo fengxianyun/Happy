@@ -1,0 +1,3 @@
+2017-02-22 10:59:53,740 MyLogging.py[line:40] 7780: INFO lll
+2017-02-22 11:02:21,328 MyLogging.py[line:40] 1180: INFO path:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\mylog,lll
+2017-02-22 11:04:17,790 MyLogging.py[line:40] 7732: INFO lll,path:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\mylog

@@ -1,0 +1,606 @@
+2017-02-24 17:32:22,740 MyLogging.py[line:40] 7904: INFO 开始为D:/workspace/test/Test.py增加注释,path:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 17:33:11,296 MyLogging.py[line:40] 5088: INFO 开始为D:/workspace/test/Test.py增加注释,path:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 17:35:59,486 MyLogging.py[line:40] 8176: INFO 开始为D:/workspace/test/Test.py增加注释,path:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 17:35:59,486 MyLogging.py[line:40] 8176: INFO 检测到函数,path:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 17:39:46,851 MyLogging.py[line:41] 7376: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 17:39:58,188 MyLogging.py[line:41] 7376: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 17:40:03,993 MyLogging.py[line:41] 7376: INFO 检测到函数
+2017-02-24 17:41:14,839 MyLogging.py[line:41] 7864: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 17:41:14,842 MyLogging.py[line:41] 7864: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 17:41:18,387 MyLogging.py[line:41] 7864: INFO 检测到函数
+2017-02-24 17:43:54,951 MyLogging.py[line:41] 6192: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 17:43:54,953 MyLogging.py[line:41] 6192: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 17:43:59,292 MyLogging.py[line:41] 6192: INFO 检测到函数
+2017-02-24 17:47:10,769 MyLogging.py[line:41] 4812: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 17:47:10,770 MyLogging.py[line:41] 4812: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 17:47:18,211 MyLogging.py[line:41] 4812: INFO 检测到函数
+2017-02-24 17:47:46,913 MyLogging.py[line:41] 4812: INFO 函数名为:lll,缩进为:0,参数为:['a', 'b', 'c']
+2017-02-24 17:49:01,907 MyLogging.py[line:41] 7620: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 17:49:01,908 MyLogging.py[line:41] 7620: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 17:49:10,367 MyLogging.py[line:41] 7620: INFO 检测到函数
+2017-02-24 17:49:10,378 MyLogging.py[line:41] 7620: INFO 函数名为:lll,缩进为:0,参数为:['a', 'b', 'c']
+2017-02-24 17:49:47,121 MyLogging.py[line:41] 8112: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 17:49:47,124 MyLogging.py[line:41] 8112: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 17:49:47,125 MyLogging.py[line:41] 8112: INFO 检测到函数
+2017-02-24 17:49:47,134 MyLogging.py[line:41] 8112: INFO 函数名为:lll,缩进为:0,参数为:['a', 'b', 'c']
+2017-02-24 17:51:24,237 MyLogging.py[line:41] 7936: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 17:51:24,239 MyLogging.py[line:41] 7936: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 17:51:24,239 MyLogging.py[line:41] 7936: INFO 检测到函数
+2017-02-24 17:51:24,239 MyLogging.py[line:41] 7936: INFO 函数名为:lll,缩进为:0,参数为:['a', 'b', 'c']
+2017-02-24 17:51:24,240 MyLogging.py[line:41] 7936: INFO 检测到返回
+2017-02-24 17:52:15,799 MyLogging.py[line:41] 5980: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 17:52:15,799 MyLogging.py[line:41] 5980: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 17:52:15,799 MyLogging.py[line:41] 5980: INFO 检测到函数
+2017-02-24 17:52:15,801 MyLogging.py[line:41] 5980: INFO 函数名为:lll,缩进为:0,参数为:['a', 'b', 'c']
+2017-02-24 17:52:15,801 MyLogging.py[line:41] 5980: INFO 检测到返回
+2017-02-24 17:52:15,801 MyLogging.py[line:41] 5980: INFO 缩进为:lll,参数为:0
+2017-02-24 17:55:49,226 MyLogging.py[line:41] 1608: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 17:55:49,226 MyLogging.py[line:41] 1608: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 17:55:49,226 MyLogging.py[line:41] 1608: INFO 检测到函数
+2017-02-24 17:55:49,226 MyLogging.py[line:41] 1608: INFO 函数名为:lll,缩进为:0,参数为:['a', 'b', 'c']
+2017-02-24 17:55:49,226 MyLogging.py[line:41] 1608: INFO 检测到返回
+2017-02-24 17:55:49,226 MyLogging.py[line:41] 1608: INFO 缩进为:lll,参数为:0
+2017-02-24 17:56:12,994 MyLogging.py[line:41] 6100: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 17:56:12,996 MyLogging.py[line:41] 6100: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 17:57:10,661 MyLogging.py[line:41] 7672: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 17:57:10,663 MyLogging.py[line:41] 7672: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 17:58:17,917 MyLogging.py[line:41] 7672: INFO 检测到函数
+2017-02-24 17:58:17,928 MyLogging.py[line:41] 7672: INFO 函数名为:lll,缩进为:0,参数为:['a', 'b', 'c']
+2017-02-24 17:59:35,188 MyLogging.py[line:41] 3576: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 17:59:35,188 MyLogging.py[line:41] 3576: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 17:59:35,188 MyLogging.py[line:41] 3576: INFO 检测到函数
+2017-02-24 17:59:35,190 MyLogging.py[line:41] 3576: INFO 函数名为:lll,缩进为:0,参数为:['a', 'b', 'c']
+2017-02-24 17:59:35,190 MyLogging.py[line:41] 3576: INFO 检测到返回
+2017-02-24 17:59:35,190 MyLogging.py[line:41] 3576: INFO 缩进为:lll,参数为:0
+2017-02-24 18:00:11,901 MyLogging.py[line:41] 3020: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 18:00:11,901 MyLogging.py[line:41] 3020: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 18:00:11,901 MyLogging.py[line:41] 3020: INFO 检测到函数
+2017-02-24 18:00:11,901 MyLogging.py[line:41] 3020: INFO 函数名为:lll,缩进为:0,参数为:['a', 'b', 'c']
+2017-02-24 18:00:11,903 MyLogging.py[line:41] 3020: INFO 检测到返回
+2017-02-24 18:00:11,903 MyLogging.py[line:41] 3020: INFO 缩进为:lll,参数为:0
+2017-02-24 18:00:52,726 MyLogging.py[line:41] 8008: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 18:00:52,727 MyLogging.py[line:41] 8008: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 18:00:52,727 MyLogging.py[line:41] 8008: INFO 检测到函数
+2017-02-24 18:00:52,729 MyLogging.py[line:41] 8008: INFO 函数名为:lll,缩进为:0,参数为:['a', 'b', 'c']
+2017-02-24 18:00:52,729 MyLogging.py[line:41] 8008: INFO 检测到返回
+2017-02-24 18:00:52,729 MyLogging.py[line:41] 8008: INFO 缩进为:lll,参数为:0
+2017-02-24 18:01:17,127 MyLogging.py[line:41] 4284: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 18:01:17,127 MyLogging.py[line:41] 4284: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 18:01:17,127 MyLogging.py[line:41] 4284: INFO 检测到函数
+2017-02-24 18:01:17,128 MyLogging.py[line:41] 4284: INFO 函数名为:lll,缩进为:0,参数为:['a', 'b', 'c']
+2017-02-24 18:01:17,128 MyLogging.py[line:41] 4284: INFO 检测到返回
+2017-02-24 18:01:17,128 MyLogging.py[line:41] 4284: INFO 缩进为:lll,参数为:0
+2017-02-24 18:01:57,256 MyLogging.py[line:41] 7932: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 18:01:57,256 MyLogging.py[line:41] 7932: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 18:01:57,256 MyLogging.py[line:41] 7932: INFO 检测到函数
+2017-02-24 18:01:57,256 MyLogging.py[line:41] 7932: INFO 函数名为:lll,缩进为:0,参数为:['a', 'b', 'c']
+2017-02-24 18:01:57,256 MyLogging.py[line:41] 7932: INFO 检测到返回
+2017-02-24 18:01:57,256 MyLogging.py[line:41] 7932: INFO 缩进为:lll,参数为:0
+2017-02-24 18:02:44,168 MyLogging.py[line:41] 7832: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 18:02:44,168 MyLogging.py[line:41] 7832: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 18:02:44,168 MyLogging.py[line:41] 7832: INFO 检测到函数
+2017-02-24 18:02:44,170 MyLogging.py[line:41] 7832: INFO 函数名为:lll,缩进为:0,参数为:['a', 'b', 'c']
+2017-02-24 18:02:44,170 MyLogging.py[line:41] 7832: INFO 检测到返回
+2017-02-24 18:02:44,170 MyLogging.py[line:41] 7832: INFO 缩进为:lll,参数为:0
+2017-02-24 18:03:30,595 MyLogging.py[line:41] 7476: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 18:03:30,595 MyLogging.py[line:41] 7476: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 18:03:30,595 MyLogging.py[line:41] 7476: INFO 检测到函数
+2017-02-24 18:03:30,595 MyLogging.py[line:41] 7476: INFO 函数名为:addComment,缩进为:0,参数为:['path']
+2017-02-24 18:03:30,595 MyLogging.py[line:41] 7476: INFO 检测到函数
+2017-02-24 18:04:22,164 MyLogging.py[line:41] 6532: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 18:04:22,165 MyLogging.py[line:41] 6532: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 18:04:42,119 MyLogging.py[line:41] 6532: INFO 检测到函数
+2017-02-24 18:05:22,520 MyLogging.py[line:41] 6532: INFO 函数名为:addComment,缩进为:0,参数为:['path']
+2017-02-24 18:05:31,122 MyLogging.py[line:41] 6532: INFO 检测到函数
+2017-02-24 18:09:08,882 MyLogging.py[line:41] 1696: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 18:09:08,884 MyLogging.py[line:41] 1696: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 18:09:08,884 MyLogging.py[line:41] 1696: INFO 检测到函数
+2017-02-24 18:09:08,884 MyLogging.py[line:41] 1696: INFO 函数名为:addComment,缩进为:0,参数为:['path']
+2017-02-24 18:09:08,884 MyLogging.py[line:41] 1696: INFO 检测到函数
+2017-02-24 18:09:08,885 MyLogging.py[line:44] 1696: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:09:08,885 MyLogging.py[line:41] 1696: INFO 检测到函数
+2017-02-24 18:09:08,887 MyLogging.py[line:44] 1696: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:09:08,887 MyLogging.py[line:41] 1696: INFO 检测到函数
+2017-02-24 18:09:08,887 MyLogging.py[line:41] 1696: INFO 函数名为:,缩进为:0,参数为:['']
+2017-02-24 18:09:08,887 MyLogging.py[line:41] 1696: INFO 检测到函数
+2017-02-24 18:09:08,888 MyLogging.py[line:44] 1696: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:09:08,888 MyLogging.py[line:41] 1696: INFO 检测到返回
+2017-02-24 18:09:08,888 MyLogging.py[line:44] 1696: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 39, in addComment
+    para = re.findall('return ([a-zA-Z0-9=_,\* ]*)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-24 18:09:08,888 MyLogging.py[line:41] 1696: INFO 检测到返回
+2017-02-24 18:09:08,888 MyLogging.py[line:41] 1696: INFO 缩进为:,参数为:0
+2017-02-24 18:09:08,888 MyLogging.py[line:41] 1696: INFO 检测到返回
+2017-02-24 18:09:08,888 MyLogging.py[line:44] 1696: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 39, in addComment
+    para = re.findall('return ([a-zA-Z0-9=_,\* ]*)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-24 18:09:08,888 MyLogging.py[line:41] 1696: INFO 检测到函数
+2017-02-24 18:09:08,888 MyLogging.py[line:44] 1696: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:09:08,888 MyLogging.py[line:41] 1696: INFO 检测到函数
+2017-02-24 18:09:08,888 MyLogging.py[line:41] 1696: INFO 函数名为:,缩进为:0,参数为:['']
+2017-02-24 18:09:08,888 MyLogging.py[line:41] 1696: INFO 检测到返回
+2017-02-24 18:09:08,890 MyLogging.py[line:41] 1696: INFO 缩进为:,参数为:0
+2017-02-24 18:09:08,890 MyLogging.py[line:41] 1696: INFO 检测到函数
+2017-02-24 18:09:08,890 MyLogging.py[line:44] 1696: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 32, in addComment
+    para = re.findall('\(([a-zA-Z0-9=_,\*]*)\)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-24 18:09:08,890 MyLogging.py[line:41] 1696: INFO 检测到函数
+2017-02-24 18:09:08,890 MyLogging.py[line:44] 1696: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:09:08,890 MyLogging.py[line:41] 1696: INFO 检测到返回
+2017-02-24 18:09:08,890 MyLogging.py[line:44] 1696: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 39, in addComment
+    para = re.findall('return ([a-zA-Z0-9=_,\* ]*)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-24 18:09:08,890 MyLogging.py[line:41] 1696: INFO 检测到返回
+2017-02-24 18:09:08,891 MyLogging.py[line:44] 1696: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 39, in addComment
+    para = re.findall('return ([a-zA-Z0-9=_,\* ]*)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-24 18:09:08,891 MyLogging.py[line:41] 1696: INFO 检测到返回
+2017-02-24 18:09:08,891 MyLogging.py[line:41] 1696: INFO 缩进为:addContent,参数为:0
+2017-02-24 18:09:08,891 MyLogging.py[line:44] 1696: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 43, in addComment
+    add_content[temp_name] += add_message
+KeyError: 'addContent'
+
+2017-02-24 18:10:41,542 MyLogging.py[line:41] 7272: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 18:10:41,542 MyLogging.py[line:41] 7272: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 18:10:41,542 MyLogging.py[line:41] 7272: INFO 检测到函数
+2017-02-24 18:10:41,542 MyLogging.py[line:41] 7272: INFO 函数名为:addComment,缩进为:0,参数为:['path']
+2017-02-24 18:10:41,543 MyLogging.py[line:41] 7272: INFO 检测到函数
+2017-02-24 18:10:41,543 MyLogging.py[line:44] 7272: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:10:41,543 MyLogging.py[line:41] 7272: INFO 检测到函数
+2017-02-24 18:10:41,543 MyLogging.py[line:44] 7272: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:10:41,543 MyLogging.py[line:41] 7272: INFO 检测到函数
+2017-02-24 18:10:41,543 MyLogging.py[line:41] 7272: INFO 函数名为:,缩进为:0,参数为:['']
+2017-02-24 18:10:41,543 MyLogging.py[line:41] 7272: INFO 检测到函数
+2017-02-24 18:10:41,543 MyLogging.py[line:44] 7272: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:10:41,545 MyLogging.py[line:41] 7272: INFO 检测到返回
+2017-02-24 18:10:41,545 MyLogging.py[line:44] 7272: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 39, in addComment
+    para = re.findall('return ([a-zA-Z0-9=_,\* ]*)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-24 18:10:41,545 MyLogging.py[line:41] 7272: INFO 检测到返回
+2017-02-24 18:10:41,545 MyLogging.py[line:41] 7272: INFO 缩进为:,参数为:0
+2017-02-24 18:10:41,545 MyLogging.py[line:41] 7272: INFO 检测到返回
+2017-02-24 18:10:41,545 MyLogging.py[line:44] 7272: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 39, in addComment
+    para = re.findall('return ([a-zA-Z0-9=_,\* ]*)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-24 18:10:41,546 MyLogging.py[line:41] 7272: INFO 检测到函数
+2017-02-24 18:10:41,546 MyLogging.py[line:44] 7272: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:10:41,546 MyLogging.py[line:41] 7272: INFO 检测到函数
+2017-02-24 18:10:41,546 MyLogging.py[line:41] 7272: INFO 函数名为:,缩进为:0,参数为:['']
+2017-02-24 18:10:41,546 MyLogging.py[line:41] 7272: INFO 检测到返回
+2017-02-24 18:10:41,546 MyLogging.py[line:41] 7272: INFO 缩进为:,参数为:0
+2017-02-24 18:10:41,546 MyLogging.py[line:41] 7272: INFO 检测到函数
+2017-02-24 18:10:41,546 MyLogging.py[line:44] 7272: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 32, in addComment
+    para = re.findall('\(([a-zA-Z0-9=_,\*]*)\)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-24 18:10:41,546 MyLogging.py[line:41] 7272: INFO 检测到函数
+2017-02-24 18:10:41,546 MyLogging.py[line:44] 7272: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:10:41,546 MyLogging.py[line:41] 7272: INFO 检测到返回
+2017-02-24 18:10:41,546 MyLogging.py[line:44] 7272: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 39, in addComment
+    para = re.findall('return ([a-zA-Z0-9=_,\* ]*)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-24 18:10:41,546 MyLogging.py[line:41] 7272: INFO 检测到返回
+2017-02-24 18:10:41,546 MyLogging.py[line:44] 7272: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 39, in addComment
+    para = re.findall('return ([a-zA-Z0-9=_,\* ]*)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-24 18:10:41,546 MyLogging.py[line:41] 7272: INFO 检测到返回
+2017-02-24 18:10:41,546 MyLogging.py[line:41] 7272: INFO 缩进为:addContent,参数为:0
+2017-02-24 18:15:34,734 MyLogging.py[line:41] 6136: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 18:15:34,736 MyLogging.py[line:41] 6136: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 18:15:34,740 MyLogging.py[line:41] 6136: INFO 检测到函数
+2017-02-24 18:15:34,750 MyLogging.py[line:41] 6136: INFO 函数名为:addComment,缩进为:0,参数为:['path']
+2017-02-24 18:15:34,753 MyLogging.py[line:41] 6136: INFO 检测到函数
+2017-02-24 18:15:34,756 MyLogging.py[line:44] 6136: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:15:34,757 MyLogging.py[line:41] 6136: INFO 检测到函数
+2017-02-24 18:15:34,759 MyLogging.py[line:44] 6136: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:15:34,759 MyLogging.py[line:41] 6136: INFO 检测到函数
+2017-02-24 18:15:34,760 MyLogging.py[line:41] 6136: INFO 函数名为:,缩进为:0,参数为:['']
+2017-02-24 18:15:34,762 MyLogging.py[line:41] 6136: INFO 检测到函数
+2017-02-24 18:15:34,763 MyLogging.py[line:44] 6136: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:15:34,763 MyLogging.py[line:41] 6136: INFO 检测到返回
+2017-02-24 18:15:34,766 MyLogging.py[line:44] 6136: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 39, in addComment
+    para = re.findall('return ([a-zA-Z0-9=_,\* ]*)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-24 18:15:34,766 MyLogging.py[line:41] 6136: INFO 检测到返回
+2017-02-24 18:15:34,766 MyLogging.py[line:41] 6136: INFO 缩进为:,参数为:0
+2017-02-24 18:16:28,851 MyLogging.py[line:41] 7136: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 18:16:28,852 MyLogging.py[line:41] 7136: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 18:16:42,910 MyLogging.py[line:41] 7136: INFO 检测到函数
+2017-02-24 18:17:22,523 MyLogging.py[line:41] 7136: INFO 函数名为:addComment,缩进为:0,参数为:['path']
+2017-02-24 18:18:12,224 MyLogging.py[line:41] 7136: INFO 检测到函数
+2017-02-24 18:18:12,229 MyLogging.py[line:44] 7136: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:18:13,522 MyLogging.py[line:41] 7136: INFO 检测到函数
+2017-02-24 18:18:13,523 MyLogging.py[line:44] 7136: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:18:14,726 MyLogging.py[line:41] 7136: INFO 检测到函数
+2017-02-24 18:18:14,729 MyLogging.py[line:41] 7136: INFO 函数名为:,缩进为:0,参数为:['']
+2017-02-24 18:19:11,845 MyLogging.py[line:41] 6664: INFO Log路径为:C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\comment_add_log.txt
+2017-02-24 18:19:11,846 MyLogging.py[line:41] 6664: INFO 开始为D:/workspace/test/Test.py增加注释
+2017-02-24 18:19:11,849 MyLogging.py[line:41] 6664: INFO 检测到函数
+2017-02-24 18:19:11,854 MyLogging.py[line:41] 6664: INFO 函数名为:addComment,缩进为:0,参数为:['path']
+2017-02-24 18:19:15,197 MyLogging.py[line:41] 6664: INFO 检测到函数
+2017-02-24 18:19:15,200 MyLogging.py[line:44] 6664: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:19:15,201 MyLogging.py[line:41] 6664: INFO 检测到函数
+2017-02-24 18:19:15,203 MyLogging.py[line:44] 6664: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:19:15,206 MyLogging.py[line:41] 6664: INFO 检测到函数
+2017-02-24 18:19:15,207 MyLogging.py[line:41] 6664: INFO 函数名为:,缩进为:0,参数为:['']
+2017-02-24 18:20:04,500 MyLogging.py[line:41] 6664: INFO 检测到函数
+2017-02-24 18:20:04,503 MyLogging.py[line:44] 6664: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:20:09,802 MyLogging.py[line:41] 6664: INFO 检测到返回
+2017-02-24 18:20:26,907 MyLogging.py[line:44] 6664: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 39, in addComment
+    para = re.findall('return ([a-zA-Z0-9=_,\* ]*)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-24 18:20:45,605 MyLogging.py[line:41] 6664: INFO 检测到返回
+2017-02-24 18:20:45,607 MyLogging.py[line:41] 6664: INFO 缩进为:,参数为:0
+2017-02-24 18:20:51,910 MyLogging.py[line:41] 6664: INFO 检测到返回
+2017-02-24 18:20:51,913 MyLogging.py[line:44] 6664: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 39, in addComment
+    para = re.findall('return ([a-zA-Z0-9=_,\* ]*)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-24 18:20:51,914 MyLogging.py[line:41] 6664: INFO 检测到函数
+2017-02-24 18:20:51,917 MyLogging.py[line:44] 6664: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:20:51,918 MyLogging.py[line:41] 6664: INFO 检测到函数
+2017-02-24 18:20:51,921 MyLogging.py[line:41] 6664: INFO 函数名为:,缩进为:0,参数为:['']
+2017-02-24 18:21:07,808 MyLogging.py[line:41] 6664: INFO 检测到返回
+2017-02-24 18:21:07,809 MyLogging.py[line:41] 6664: INFO 缩进为:,参数为:0
+2017-02-24 18:21:07,809 MyLogging.py[line:41] 6664: INFO 检测到函数
+2017-02-24 18:21:07,809 MyLogging.py[line:44] 6664: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 32, in addComment
+    para = re.findall('\(([a-zA-Z0-9=_,\*]*)\)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-24 18:21:07,811 MyLogging.py[line:41] 6664: INFO 检测到函数
+2017-02-24 18:21:07,811 MyLogging.py[line:44] 6664: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 30, in addComment
+    temp_name = re.findall('def([a-zA-Z0-9_ ]*)\(', line)[0].strip()
+IndexError: list index out of range
+
+2017-02-24 18:21:09,012 MyLogging.py[line:41] 6664: INFO 检测到返回
+2017-02-24 18:21:09,013 MyLogging.py[line:44] 6664: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 39, in addComment
+    para = re.findall('return ([a-zA-Z0-9=_,\* ]*)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-24 18:21:09,813 MyLogging.py[line:41] 6664: INFO 检测到返回
+2017-02-24 18:21:09,813 MyLogging.py[line:44] 6664: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\wczhang.fxy\Desktop\Happy\Happy\commen\AutoAddComment.py", line 39, in addComment
+    para = re.findall('return ([a-zA-Z0-9=_,\* ]*)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-24 18:21:10,405 MyLogging.py[line:41] 6664: INFO 检测到返回
+2017-02-24 18:21:10,407 MyLogging.py[line:41] 6664: INFO 缩进为:addContent,参数为:0
+2017-02-26 14:04:17,543 MyLogging.py[line:41] 39580: INFO Log路径为:C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\comment_add_log.txt
+2017-02-26 14:04:17,543 MyLogging.py[line:41] 39580: INFO 开始为D:/eclipse-java-mars-2-win32-x86_64/workspace/FlowPredict/predict_1.py增加注释
+2017-02-26 14:04:17,543 MyLogging.py[line:41] 39580: INFO 检测到函数
+2017-02-26 14:04:17,543 MyLogging.py[line:41] 39580: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['shop_id']
+2017-02-26 14:04:17,545 MyLogging.py[line:41] 39580: INFO 检测到返回
+2017-02-26 14:04:17,545 MyLogging.py[line:41] 39580: INFO 缩进为:getRecordByDay,参数为:0
+2017-02-26 14:04:17,545 MyLogging.py[line:41] 39580: INFO 检测到函数
+2017-02-26 14:04:17,546 MyLogging.py[line:44] 39580: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\AutoAddComment.py", line 32, in addComment
+    para = re.findall('\(([a-zA-Z0-9=_,\*]*)\)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-26 14:04:17,546 MyLogging.py[line:41] 39580: INFO 检测到返回
+2017-02-26 14:04:17,546 MyLogging.py[line:41] 39580: INFO 缩进为:getAverage,参数为:0
+2017-02-26 14:08:21,141 MyLogging.py[line:41] 62596: INFO Log路径为:C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\comment_add_log.txt
+2017-02-26 14:08:21,141 MyLogging.py[line:41] 62596: INFO 开始为D:/eclipse-java-mars-2-win32-x86_64/workspace/FlowPredict/predict_1.py增加注释
+2017-02-26 14:08:33,073 MyLogging.py[line:41] 62596: INFO 检测到函数
+2017-02-26 14:08:33,075 MyLogging.py[line:41] 62596: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['shop_id']
+2017-02-26 14:08:53,338 MyLogging.py[line:41] 62596: INFO 检测到返回
+2017-02-26 14:09:17,905 MyLogging.py[line:41] 62596: INFO 缩进为:getRecordByDay,参数为:0
+2017-02-26 14:09:56,144 MyLogging.py[line:41] 51332: INFO Log路径为:C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\comment_add_log.txt
+2017-02-26 14:09:56,144 MyLogging.py[line:41] 51332: INFO 开始为D:/eclipse-java-mars-2-win32-x86_64/workspace/FlowPredict/predict_1.py增加注释
+2017-02-26 14:09:56,144 MyLogging.py[line:41] 51332: INFO 检测到函数
+2017-02-26 14:09:56,145 MyLogging.py[line:41] 51332: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['shop_id']
+2017-02-26 14:09:56,145 MyLogging.py[line:41] 51332: INFO 检测到返回
+2017-02-26 14:09:56,145 MyLogging.py[line:41] 51332: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['True', 'date_frame']
+2017-02-26 14:09:56,147 MyLogging.py[line:41] 51332: INFO 检测到函数
+2017-02-26 14:09:56,147 MyLogging.py[line:44] 51332: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\AutoAddComment.py", line 32, in addComment
+    para = re.findall('\(([a-zA-Z0-9=_,\*]*)\)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-26 14:09:56,147 MyLogging.py[line:41] 51332: INFO 检测到返回
+2017-02-26 14:09:56,147 MyLogging.py[line:41] 51332: INFO 函数名为:getAverage,缩进为:0,参数为:['data']
+2017-02-26 14:10:39,732 MyLogging.py[line:41] 95408: INFO Log路径为:C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\comment_add_log.txt
+2017-02-26 14:10:39,733 MyLogging.py[line:41] 95408: INFO 开始为D:/eclipse-java-mars-2-win32-x86_64/workspace/FlowPredict/predict_1.py增加注释
+2017-02-26 14:10:39,733 MyLogging.py[line:41] 95408: INFO 检测到函数
+2017-02-26 14:10:39,736 MyLogging.py[line:41] 95408: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['shop_id']
+2017-02-26 14:11:13,441 MyLogging.py[line:41] 95408: INFO 检测到返回
+2017-02-26 14:11:13,441 MyLogging.py[line:41] 95408: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['True', 'date_frame']
+2017-02-26 14:11:13,443 MyLogging.py[line:41] 95408: INFO 检测到函数
+2017-02-26 14:11:13,443 MyLogging.py[line:44] 95408: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\AutoAddComment.py", line 32, in addComment
+    para = re.findall('\(([a-zA-Z0-9=_,\*]*)\)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-26 14:11:21,671 MyLogging.py[line:41] 95408: INFO 检测到返回
+2017-02-26 14:11:24,983 MyLogging.py[line:41] 95408: INFO 函数名为:getAverage,缩进为:0,参数为:['data']
+2017-02-26 14:12:23,808 MyLogging.py[line:41] 93472: INFO Log路径为:C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\comment_add_log.txt
+2017-02-26 14:12:23,809 MyLogging.py[line:41] 93472: INFO 开始为D:/eclipse-java-mars-2-win32-x86_64/workspace/FlowPredict/predict_1.py增加注释
+2017-02-26 14:12:57,427 MyLogging.py[line:41] 93472: INFO 检测到函数
+2017-02-26 14:12:57,427 MyLogging.py[line:41] 93472: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['shop_id']
+2017-02-26 14:14:32,417 MyLogging.py[line:41] 93472: INFO 检测到返回
+2017-02-26 14:14:35,727 MyLogging.py[line:41] 93472: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['True', 'date_frame']
+2017-02-26 14:16:20,441 MyLogging.py[line:41] 93472: INFO 检测到函数
+2017-02-26 14:16:38,308 MyLogging.py[line:44] 93472: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\AutoAddComment.py", line 32, in addComment
+    para = re.findall('\(([a-zA-Z0-9=_,\*]*)\)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-26 14:18:16,801 MyLogging.py[line:41] 52668: INFO Log路径为:C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\comment_add_log.txt
+2017-02-26 14:18:16,801 MyLogging.py[line:41] 52668: INFO 开始为D:/eclipse-java-mars-2-win32-x86_64/workspace/FlowPredict/predict_1.py增加注释
+2017-02-26 14:18:18,907 MyLogging.py[line:41] 52668: INFO 检测到函数
+2017-02-26 14:18:18,907 MyLogging.py[line:41] 52668: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['shop_id']
+2017-02-26 14:18:18,908 MyLogging.py[line:41] 52668: INFO 检测到返回
+2017-02-26 14:18:18,910 MyLogging.py[line:41] 52668: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['True', 'date_frame']
+2017-02-26 14:18:53,312 MyLogging.py[line:41] 52668: INFO 检测到函数
+2017-02-26 14:21:20,073 MyLogging.py[line:41] 73680: INFO Log路径为:C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\comment_add_log.txt
+2017-02-26 14:21:20,073 MyLogging.py[line:41] 73680: INFO 开始为D:/eclipse-java-mars-2-win32-x86_64/workspace/FlowPredict/predict_1.py增加注释
+2017-02-26 14:21:20,075 MyLogging.py[line:41] 73680: INFO 检测到函数
+2017-02-26 14:21:20,075 MyLogging.py[line:41] 73680: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['shop_id']
+2017-02-26 14:21:20,075 MyLogging.py[line:41] 73680: INFO 检测到返回
+2017-02-26 14:21:20,075 MyLogging.py[line:41] 73680: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['True', 'date_frame']
+2017-02-26 14:21:20,075 MyLogging.py[line:41] 73680: INFO 检测到函数
+2017-02-26 14:21:20,075 MyLogging.py[line:41] 73680: INFO 函数名为:getAverage,缩进为:0,参数为:['start_date', 'end_date', 'data']
+2017-02-26 14:21:20,075 MyLogging.py[line:41] 73680: INFO 检测到返回
+2017-02-26 14:21:20,075 MyLogging.py[line:41] 73680: INFO 函数名为:getAverage,缩进为:0,参数为:['data']
+2017-02-26 14:21:20,075 MyLogging.py[line:41] 73680: INFO 检测到函数
+2017-02-26 14:21:20,075 MyLogging.py[line:41] 73680: INFO 函数名为:AverageByWeek,缩进为:0,参数为:['start_date', 'end_date', 'data']
+2017-02-26 14:21:20,076 MyLogging.py[line:41] 73680: INFO 检测到返回
+2017-02-26 14:21:20,076 MyLogging.py[line:41] 73680: INFO 函数名为:AverageByWeek,缩进为:0,参数为:['count']
+2017-02-26 14:21:20,076 MyLogging.py[line:41] 73680: INFO 检测到返回
+2017-02-26 14:21:20,076 MyLogging.py[line:41] 73680: INFO 函数名为:AverageByWeek,缩进为:0,参数为:['start_date']
+2017-02-26 14:21:20,076 MyLogging.py[line:41] 73680: INFO 检测到函数
+2017-02-26 14:21:20,076 MyLogging.py[line:41] 73680: INFO 函数名为:getResultOneMonthBefor,缩进为:0,参数为:['end_date', 'data', 'function=getAverage']
+2017-02-26 14:21:20,076 MyLogging.py[line:41] 73680: INFO 检测到返回
+2017-02-26 14:21:20,076 MyLogging.py[line:41] 73680: INFO 函数名为:getResultOneMonthBefor,缩进为:0,参数为:['function']
+2017-02-26 14:21:20,076 MyLogging.py[line:41] 73680: INFO 检测到函数
+2017-02-26 14:21:20,076 MyLogging.py[line:41] 73680: INFO 函数名为:getResultOneWeekBefor,缩进为:0,参数为:['end_date', 'data', 'function=getAverage']
+2017-02-26 14:21:20,078 MyLogging.py[line:41] 73680: INFO 检测到返回
+2017-02-26 14:21:20,078 MyLogging.py[line:41] 73680: INFO 函数名为:getResultOneWeekBefor,缩进为:0,参数为:['function']
+2017-02-26 14:21:20,078 MyLogging.py[line:41] 73680: INFO 检测到函数
+2017-02-26 14:21:20,078 MyLogging.py[line:41] 73680: INFO 函数名为:loss,缩进为:0,参数为:['predict', 'result']
+2017-02-26 14:21:20,078 MyLogging.py[line:41] 73680: INFO 检测到返回
+2017-02-26 14:21:20,078 MyLogging.py[line:41] 73680: INFO 函数名为:loss,缩进为:0,参数为:['np']
+2017-02-26 14:21:20,078 MyLogging.py[line:41] 73680: INFO 检测到函数
+2017-02-26 14:21:20,078 MyLogging.py[line:41] 73680: INFO 函数名为:start,缩进为:0,参数为:['data', 'predict_start_date', 'predict_days=14', 'date_data']
+2017-02-26 14:21:20,078 MyLogging.py[line:41] 73680: INFO 检测到函数
+2017-02-26 14:21:20,078 MyLogging.py[line:41] 73680: INFO 函数名为:baseAddFloat,缩进为:4,参数为:['line']
+2017-02-26 14:21:20,078 MyLogging.py[line:41] 73680: INFO 检测到返回
+2017-02-26 14:21:20,078 MyLogging.py[line:41] 73680: INFO 函数名为:baseAddFloat,缩进为:4,参数为:['percent']
+2017-02-26 14:23:13,836 MyLogging.py[line:41] 16648: INFO Log路径为:C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\comment_add_log.txt
+2017-02-26 14:23:13,836 MyLogging.py[line:41] 16648: INFO 开始为D:/eclipse-java-mars-2-win32-x86_64/workspace/FlowPredict/predict_1.py增加注释
+2017-02-26 14:23:13,836 MyLogging.py[line:41] 16648: INFO 检测到函数
+2017-02-26 14:23:13,838 MyLogging.py[line:41] 16648: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['shop_id']
+2017-02-26 14:23:13,838 MyLogging.py[line:41] 16648: INFO 检测到返回
+2017-02-26 14:23:13,838 MyLogging.py[line:41] 16648: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['True', 'date_frame']
+2017-02-26 14:23:13,838 MyLogging.py[line:41] 16648: INFO 检测到函数
+2017-02-26 14:23:13,838 MyLogging.py[line:41] 16648: INFO 函数名为:getAverage,缩进为:0,参数为:['start_date', 'end_date', 'data']
+2017-02-26 14:23:13,838 MyLogging.py[line:41] 16648: INFO 检测到返回
+2017-02-26 14:23:13,838 MyLogging.py[line:41] 16648: INFO 函数名为:getAverage,缩进为:0,参数为:['data']
+2017-02-26 14:23:13,838 MyLogging.py[line:41] 16648: INFO 检测到函数
+2017-02-26 14:23:13,838 MyLogging.py[line:41] 16648: INFO 函数名为:AverageByWeek,缩进为:0,参数为:['start_date', 'end_date', 'data']
+2017-02-26 14:23:13,838 MyLogging.py[line:41] 16648: INFO 检测到返回
+2017-02-26 14:23:13,838 MyLogging.py[line:41] 16648: INFO 函数名为:AverageByWeek,缩进为:0,参数为:['count']
+2017-02-26 14:23:13,838 MyLogging.py[line:41] 16648: INFO 检测到返回
+2017-02-26 14:23:13,838 MyLogging.py[line:41] 16648: INFO 函数名为:AverageByWeek,缩进为:0,参数为:['start_date']
+2017-02-26 14:23:13,838 MyLogging.py[line:41] 16648: INFO 检测到函数
+2017-02-26 14:23:13,838 MyLogging.py[line:41] 16648: INFO 函数名为:getResultOneMonthBefor,缩进为:0,参数为:['end_date', 'data', 'function=getAverage']
+2017-02-26 14:23:13,839 MyLogging.py[line:41] 16648: INFO 检测到返回
+2017-02-26 14:23:13,839 MyLogging.py[line:41] 16648: INFO 函数名为:getResultOneMonthBefor,缩进为:0,参数为:['function']
+2017-02-26 14:23:13,839 MyLogging.py[line:41] 16648: INFO 检测到函数
+2017-02-26 14:23:13,839 MyLogging.py[line:41] 16648: INFO 函数名为:getResultOneWeekBefor,缩进为:0,参数为:['end_date', 'data', 'function=getAverage']
+2017-02-26 14:23:13,839 MyLogging.py[line:41] 16648: INFO 检测到返回
+2017-02-26 14:23:13,839 MyLogging.py[line:41] 16648: INFO 函数名为:getResultOneWeekBefor,缩进为:0,参数为:['function']
+2017-02-26 14:23:13,839 MyLogging.py[line:41] 16648: INFO 检测到函数
+2017-02-26 14:23:13,839 MyLogging.py[line:41] 16648: INFO 函数名为:loss,缩进为:0,参数为:['predict', 'result']
+2017-02-26 14:23:13,839 MyLogging.py[line:41] 16648: INFO 检测到返回
+2017-02-26 14:23:13,839 MyLogging.py[line:41] 16648: INFO 函数名为:loss,缩进为:0,参数为:['np']
+2017-02-26 14:23:13,839 MyLogging.py[line:41] 16648: INFO 检测到函数
+2017-02-26 14:23:13,841 MyLogging.py[line:41] 16648: INFO 函数名为:start,缩进为:0,参数为:['data', 'predict_start_date', 'predict_days=14', 'date_data']
+2017-02-26 14:23:13,841 MyLogging.py[line:41] 16648: INFO 检测到函数
+2017-02-26 14:23:13,841 MyLogging.py[line:41] 16648: INFO 函数名为:baseAddFloat,缩进为:4,参数为:['line']
+2017-02-26 14:23:13,841 MyLogging.py[line:41] 16648: INFO 检测到返回
+2017-02-26 14:23:13,841 MyLogging.py[line:41] 16648: INFO 函数名为:baseAddFloat,缩进为:4,参数为:['percent']
+2017-02-26 14:39:53,697 MyLogging.py[line:41] 8100: INFO Log路径为:C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\comment_add_log.txt
+2017-02-26 14:39:53,697 MyLogging.py[line:41] 8100: INFO 开始为D:/eclipse-java-mars-2-win32-x86_64/workspace/FlowPredict/predict_1.py增加注释
+2017-02-26 14:39:53,698 MyLogging.py[line:41] 8100: INFO 检测到函数
+2017-02-26 14:39:53,698 MyLogging.py[line:41] 8100: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['shop_id']
+2017-02-26 14:39:53,698 MyLogging.py[line:41] 8100: INFO 检测到返回
+2017-02-26 14:39:53,698 MyLogging.py[line:41] 8100: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['True', 'date_frame']
+2017-02-26 14:39:53,698 MyLogging.py[line:41] 8100: INFO 检测到返回
+2017-02-26 14:39:53,698 MyLogging.py[line:41] 8100: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['False', '']
+2017-02-26 14:39:53,698 MyLogging.py[line:41] 8100: INFO 检测到函数
+2017-02-26 14:39:53,700 MyLogging.py[line:44] 8100: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\AutoAddComment.py", line 32, in addComment
+    para = re.findall('\(([a-zA-Z0-9=_,\*]*)\)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-26 14:39:53,700 MyLogging.py[line:41] 8100: INFO 检测到返回
+2017-02-26 14:39:53,700 MyLogging.py[line:41] 8100: INFO 函数名为:getAverage,缩进为:0,参数为:['data']
+2017-02-26 14:40:33,519 MyLogging.py[line:41] 63672: INFO Log路径为:C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\comment_add_log.txt
+2017-02-26 14:40:33,519 MyLogging.py[line:41] 63672: INFO 开始为D:/eclipse-java-mars-2-win32-x86_64/workspace/FlowPredict/predict_1.py增加注释
+2017-02-26 14:40:33,519 MyLogging.py[line:41] 63672: INFO 检测到函数
+2017-02-26 14:40:33,519 MyLogging.py[line:41] 63672: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['shop_id']
+2017-02-26 14:40:33,519 MyLogging.py[line:41] 63672: INFO 检测到返回
+2017-02-26 14:40:33,520 MyLogging.py[line:41] 63672: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['True', 'date_frame']
+2017-02-26 14:40:33,520 MyLogging.py[line:41] 63672: INFO 检测到返回
+2017-02-26 14:40:33,520 MyLogging.py[line:41] 63672: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['False', '']
+2017-02-26 14:40:33,520 MyLogging.py[line:41] 63672: INFO 检测到函数
+2017-02-26 14:40:33,520 MyLogging.py[line:41] 63672: INFO 函数名为:getAverage,缩进为:0,参数为:['start_date', 'end_date', 'data']
+2017-02-26 14:40:33,520 MyLogging.py[line:41] 63672: INFO 检测到返回
+2017-02-26 14:40:33,520 MyLogging.py[line:41] 63672: INFO 函数名为:getAverage,缩进为:0,参数为:['data']
+2017-02-26 14:40:33,520 MyLogging.py[line:41] 63672: INFO 检测到函数
+2017-02-26 14:40:33,520 MyLogging.py[line:41] 63672: INFO 函数名为:AverageByWeek,缩进为:0,参数为:['start_date', 'end_date', 'data']
+2017-02-26 14:40:33,520 MyLogging.py[line:41] 63672: INFO 检测到返回
+2017-02-26 14:40:33,520 MyLogging.py[line:41] 63672: INFO 函数名为:AverageByWeek,缩进为:0,参数为:['count']
+2017-02-26 14:40:33,520 MyLogging.py[line:41] 63672: INFO 检测到函数
+2017-02-26 14:40:33,522 MyLogging.py[line:44] 63672: WARNING 源代码解析错误，可能出现不为关键子的def或return字符串， 暂时忽略，Traceback (most recent call last):
+  File "C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\AutoAddComment.py", line 32, in addComment
+    para = re.findall('\(([a-zA-Z0-9=_,\* ]*)\)', line)[0].split(',')
+IndexError: list index out of range
+
+2017-02-26 14:40:33,522 MyLogging.py[line:41] 63672: INFO 检测到返回
+2017-02-26 14:40:33,522 MyLogging.py[line:41] 63672: INFO 函数名为:changeDays,缩进为:0,参数为:['start_date']
+2017-02-26 14:41:02,335 MyLogging.py[line:41] 94540: INFO Log路径为:C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\comment_add_log.txt
+2017-02-26 14:41:02,335 MyLogging.py[line:41] 94540: INFO 开始为D:/eclipse-java-mars-2-win32-x86_64/workspace/FlowPredict/predict_1.py增加注释
+2017-02-26 14:41:38,243 MyLogging.py[line:41] 35400: INFO Log路径为:C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\comment_add_log.txt
+2017-02-26 14:41:38,243 MyLogging.py[line:41] 35400: INFO 开始为D:/eclipse-java-mars-2-win32-x86_64/workspace/FlowPredict/predict_1.py增加注释
+2017-02-26 14:41:47,375 MyLogging.py[line:41] 35400: INFO 检测到函数
+2017-02-26 14:41:47,377 MyLogging.py[line:41] 35400: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['shop_id']
+2017-02-26 14:41:47,377 MyLogging.py[line:41] 35400: INFO 检测到返回
+2017-02-26 14:41:47,378 MyLogging.py[line:41] 35400: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['True', 'date_frame']
+2017-02-26 14:41:47,378 MyLogging.py[line:41] 35400: INFO 检测到返回
+2017-02-26 14:41:47,378 MyLogging.py[line:41] 35400: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['False', '']
+2017-02-26 14:41:48,779 MyLogging.py[line:41] 35400: INFO 检测到函数
+2017-02-26 14:41:48,780 MyLogging.py[line:41] 35400: INFO 函数名为:getAverage,缩进为:0,参数为:['start_date', 'end_date', 'data']
+2017-02-26 14:41:48,780 MyLogging.py[line:41] 35400: INFO 检测到返回
+2017-02-26 14:41:48,780 MyLogging.py[line:41] 35400: INFO 函数名为:getAverage,缩进为:0,参数为:['data']
+2017-02-26 14:41:49,789 MyLogging.py[line:41] 35400: INFO 检测到函数
+2017-02-26 14:41:49,789 MyLogging.py[line:41] 35400: INFO 函数名为:AverageByWeek,缩进为:0,参数为:['start_date', 'end_date', 'data']
+2017-02-26 14:41:49,789 MyLogging.py[line:41] 35400: INFO 检测到返回
+2017-02-26 14:41:49,789 MyLogging.py[line:41] 35400: INFO 函数名为:AverageByWeek,缩进为:0,参数为:['count']
+2017-02-26 14:41:56,105 MyLogging.py[line:41] 35400: INFO 检测到函数
+2017-02-26 14:42:37,121 MyLogging.py[line:41] 40100: INFO Log路径为:C:\Users\raytine\Desktop\Happy_2017_02_24\Happy\Happy\commen\comment_add_log.txt
+2017-02-26 14:42:37,121 MyLogging.py[line:41] 40100: INFO 开始为D:/eclipse-java-mars-2-win32-x86_64/workspace/FlowPredict/predict_1.py增加注释
+2017-02-26 14:42:37,121 MyLogging.py[line:41] 40100: INFO 检测到函数
+2017-02-26 14:42:37,121 MyLogging.py[line:41] 40100: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['shop_id']
+2017-02-26 14:42:37,122 MyLogging.py[line:41] 40100: INFO 检测到返回
+2017-02-26 14:42:37,122 MyLogging.py[line:41] 40100: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['True', 'date_frame']
+2017-02-26 14:42:37,122 MyLogging.py[line:41] 40100: INFO 检测到返回
+2017-02-26 14:42:37,122 MyLogging.py[line:41] 40100: INFO 函数名为:getRecordByDay,缩进为:0,参数为:['False', "''"]
+2017-02-26 14:42:37,122 MyLogging.py[line:41] 40100: INFO 检测到函数
+2017-02-26 14:42:37,122 MyLogging.py[line:41] 40100: INFO 函数名为:getAverage,缩进为:0,参数为:['start_date', 'end_date', 'data']
+2017-02-26 14:42:37,122 MyLogging.py[line:41] 40100: INFO 检测到返回
+2017-02-26 14:42:37,122 MyLogging.py[line:41] 40100: INFO 函数名为:getAverage,缩进为:0,参数为:['data']
+2017-02-26 14:42:37,124 MyLogging.py[line:41] 40100: INFO 检测到函数
+2017-02-26 14:42:37,124 MyLogging.py[line:41] 40100: INFO 函数名为:AverageByWeek,缩进为:0,参数为:['start_date', 'end_date', 'data']
+2017-02-26 14:42:37,124 MyLogging.py[line:41] 40100: INFO 检测到返回
+2017-02-26 14:42:37,124 MyLogging.py[line:41] 40100: INFO 函数名为:AverageByWeek,缩进为:0,参数为:['count']
+2017-02-26 14:42:37,124 MyLogging.py[line:41] 40100: INFO 检测到函数
+2017-02-26 14:42:37,124 MyLogging.py[line:41] 40100: INFO 函数名为:changeDays,缩进为:0,参数为:['start_date', 'change_num', "add_or_minus='add'"]
+2017-02-26 14:42:37,124 MyLogging.py[line:41] 40100: INFO 检测到返回
+2017-02-26 14:42:37,124 MyLogging.py[line:41] 40100: INFO 函数名为:changeDays,缩进为:0,参数为:['start_date']
+2017-02-26 14:42:37,124 MyLogging.py[line:41] 40100: INFO 检测到函数
+2017-02-26 14:42:37,124 MyLogging.py[line:41] 40100: INFO 函数名为:getResultOneMonthBefor,缩进为:0,参数为:['end_date', 'data', 'function=getAverage']
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 检测到返回
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 函数名为:getResultOneMonthBefor,缩进为:0,参数为:['function']
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 检测到函数
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 函数名为:getResultOneWeekBefor,缩进为:0,参数为:['end_date', 'data', 'function=getAverage']
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 检测到返回
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 函数名为:getResultOneWeekBefor,缩进为:0,参数为:['function']
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 检测到函数
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 函数名为:loss,缩进为:0,参数为:['predict', 'result']
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 检测到返回
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 函数名为:loss,缩进为:0,参数为:['np']
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 检测到函数
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 函数名为:start,缩进为:0,参数为:['data', 'predict_start_date', 'predict_days=14', 'date_data']
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 检测到函数
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 函数名为:baseAddFloat,缩进为:4,参数为:['line']
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 检测到返回
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 函数名为:baseAddFloat,缩进为:4,参数为:['percent']
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 检测到返回
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 函数名为:baseAddFloat,缩进为:4,参数为:['predict']
+2017-02-26 14:42:37,125 MyLogging.py[line:41] 40100: INFO 添加注释完成
